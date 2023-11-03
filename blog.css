@@ -1,0 +1,156 @@
+*{
+    margin: 0%;
+    
+
+}
+
+
+.health{
+    height: fit-content;
+    margin: 0%;
+    
+    
+}
+.health p{
+    color: white;
+    
+    
+}
+.health h2{
+    font-family: 'IBM Plex Mono', monospace;
+    letter-spacing: 2px;
+}
+
+.head1
+{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.blog{
+    height: fit-content;
+    /* width: 85%; */
+    
+}
+.yummy1{
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 20px;
+    border-radius: 20px;
+    
+    
+    background-image: linear-gradient(blanchedalmond,brown);
+
+
+}
+.yummy1 img{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+.yummy1 a{
+    position: relative;
+    top: -100px;
+    left:240px;
+}
+.yum .garlicbread{
+    position: relative;
+    bottom: 80px;
+    left: 20px;
+    
+}
+.yummy2{
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+    border-radius: 20px;
+    background-image: linear-gradient(blanchedalmond,brown);
+
+    
+    
+   
+
+
+}
+.yummy2 img{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+.yummy2 a{
+    position: relative;
+    top: -100px;
+    left:230px;
+}
+.yum .pumpkinmuff{
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+    
+}
+
+.yummy3{
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+    border-radius: 20px;
+    background-image: linear-gradient(blanchedalmond,brown);
+
+}
+.yummy3 img{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+.yummy3 a{
+    position: relative;
+    top: -100px;
+    left:230px;
+}
+.margarita{
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+    
+}
+.yummy4{
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+    border-radius: 20px;
+    background-image: linear-gradient(blanchedalmond,brown);
+
+}
+.yummy4 img{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+.yummy4 a{
+    position: relative;
+    top: -100px;
+    left:230px;
+}
+.choco{
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+    
+}
+
+.subscribe{
+    height: 200px;
+    width: 300px;
+    
+    background-color: blanchedalmond;
+    font-family: cursive;
+    border-radius: 40px;
+}

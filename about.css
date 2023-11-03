@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    font-family: 'Signika', sans-serif;
+    
+}
+body{
+    background-image: url(alogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.signin{
+  
+    height:200px;
+    width: 100%;
+    color: rgb(56, 8, 145);
+    margin-top: 260px;
+    margin-right: 5px;
+    
+    margin-left: 5px;
+    bottom: auto;
+}
+button{
+height: 50px;
+width: 280px;
+font-size: 20px;
+border-radius: 10px;
+background-color: orangered;
+
+
+
+}
+
+.footer{
+background-color: #182424;
+opacity: 0.6;
+position:absolute;
+bottom: 0;
+left: 0px;
+height: 250px;
+width: 100%;
+
+
+color: azure; 
+}
+
+.footer .f1h{
+
+color: aliceblue;
+display: flex;
+position: absolute;
+left: 320px;
+top: 20px;
+height: 150px;
+ width: 110px;
+flex-direction:column;
+
+}
+.f1{
+display: flex;
+flex-direction: column;
+}
+.footer .f2h{
+
+color: aliceblue;
+display: flex;
+position: absolute;
+left: 260px;
+top: 0px;
+height: 150px;
+ width:200px;
+flex-direction: row;
+
+
+}
+.f2{
+display: flex;
+flex-direction: row;
+}
+.footer .f3h{
+
+color: aliceblue;
+display: flex;
+position: absolute;
+left: 490px;
+top: 0px;
+height: 150px;
+ width: 170px;
+flex-direction:column;
+
+}
+.f3{
+display: flex;
+flex-direction: column;
+}
+
+.downlogo{
+position: relative;
+right: 200px;
+bottom: 30px;
+}
+
+

@@ -1,0 +1,69 @@
+.head h2{
+    font-family: 'IBM Plex Mono', monospace;
+    letter-spacing: 2px;
+}
+.heading
+{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.food{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.recipe{
+    height: 400px;
+    
+}
+.roundrecipe{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.rr img{
+    border-radius: 50%;
+    position: relative;
+    bottom:-40px;
+}
+
+.recipe1{
+   
+    width:85%;
+    background-color: blanchedalmond;
+
+
+}
+.recipe1 img{
+    position: relative;
+    left: 30%;
+}
+.recipe1 .ing{
+    height: fit-content;
+    width: 85%;
+}
+
+.recipe2{
+   
+    width:85%;
+    background-color: blanchedalmond;
+
+
+}
+.recipe2 img{
+    position: relative;
+    left: 50%;
+}
+.recipe2 .ing1{
+    position:relative;
+    bottom: 50px;
+    left: 20px;
+}
